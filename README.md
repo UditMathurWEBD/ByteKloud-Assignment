@@ -34,3 +34,8 @@ This is a full-stack web application built as an assignment using modern technol
 - JWT (JSON Web Token) for authentication
 
 ---
+
+## 🛠 Images
+
+<img width="1440" height="900" alt="Screenshot 2025-07-13 at 9 00 08 AM" src="https://github.com/user-attachments/assets/60b49dd9-5d1c-4075-8b38-8daaf294b7a8" />
+
